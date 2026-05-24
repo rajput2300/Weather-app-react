@@ -87,7 +87,7 @@ HomePage:
 
 ## Live Demo
 
-Deployment in progress 🚀
+weather-app-react-five-bice.vercel.app
 
 ## Author
 
